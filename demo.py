@@ -9,3 +9,4 @@ f=40
 print(e+f)
 g=20
 h=20
+print(g+h)
